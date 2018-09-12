@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Favorite programing languages
+* Javascript
+* C#
+* Python
